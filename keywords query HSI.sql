@@ -10,4 +10,4 @@ FROM
     WHERE product_model = 'HUAWEI Mate 50' and site_code = 'ph'
   )
 ) tmp 
-GROUP BY product_model, Date
+GROUP BY Date
