@@ -4,3 +4,6 @@ when '发运时间' then   DATE(发运时间) end
 
 [时间选择]>=[开始时间]
 and   [时间选择]<=[结束时间]
+
+怎么自定时间颗粒度？
+https://blog.csdn.net/u014008219/article/details/51867972?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-51867972-blog-119959326.235%5Ev39%5Epc_relevant_3m_sort_dl_base1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-51867972-blog-119959326.235%5Ev39%5Epc_relevant_3m_sort_dl_base1&utm_relevant_index=2
